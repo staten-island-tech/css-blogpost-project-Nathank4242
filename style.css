@@ -1,0 +1,42 @@
+html, 
+body,
+*{
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* presets */
+
+
+body{
+    background-color: #663399;
+}
+li{
+    color: aqua;
+}
+.first{
+    color red
+}
+
+.post{
+    background-color: black;
+
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    color white
+    margin: 10px auto;
+
+}
+.text{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px auto;
+    padding: 70px;
+}
+
+
+/*object fit fixes aspect ratio #/
